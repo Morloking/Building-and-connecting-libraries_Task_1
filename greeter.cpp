@@ -1,3 +1,3 @@
 #include "greeter.h"
 
-std::string my_namespace::Greeter::greet(std::string name) { return "Здравствуйте, " + name + "!\n"; }
+std::string my_namespace::Greeter::greet(std::string name) { return "Р—РґСЂР°РІСЃС‚РІСѓР№С‚Рµ, " + name + "!\n"; }
